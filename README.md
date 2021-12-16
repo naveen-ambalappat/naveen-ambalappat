@@ -4,15 +4,15 @@
 
 ## Hi, I am Naveen :wave:
 
-I'm a software engineer with specialization in Data Science and Analytics from University of Leeds. I have 10 years of IT industry experience when I decided to break my comfort zone and try something new. 
-Then I started my journey to become a data scientist and chose to do my PG from UK. Now this is where I am,
+I'm a software engineer with specialization in Data Science and Analytics from University of Leeds. I have 10 years of IT industry experience, when I decided to break my comfort zone and try something new. 
+Then on I started my journey to become a data scientist and decided to do PG from UK. Now this is where I am,
 
 -I’m excited to complete my masters in Data Science next month and currently looking for my first data scientist job
 
 -During my course, I did many projects in data science, applied ML algorithms, created nice data visualizations and completed my dissertation in Natural Language Processing. Also I spoiled myself with 
 AI projects like image classification and caption generation using cnn and rnn.
 
-**Skills with me**: EDA, Data modelling, Data Visualization, ML algorithms, Deep learning, NLP,Statistics
+**New Skills with me**: EDA, Data modelling, Data Visualization, ML algorithms, Deep learning, NLP,Statistics
 
 **Languages**: Python
 
